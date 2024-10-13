@@ -11,7 +11,7 @@ Outputs to SolarPutty_sessions_decrypted.txt
 
 Want it to output somewhere else?
 
-Change it on line 120
+Change it on line 118
 
 I don't get paid enough to make it that intuitive
 
