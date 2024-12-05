@@ -3,7 +3,7 @@
 A blatant ripoff of Voidsec's decrypt tool
 https://github.com/VoidSec/SolarPuttyDecrypt
 
-But not written in C# so it's infinetly better
+But not written in C# so it's infinitely better
 
 You can also pass it a wordlist because that seems like an important feature you would want when decrypting something
 
